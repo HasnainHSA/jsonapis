@@ -1,0 +1,26 @@
+[
+    {
+        "id" : "1",
+        "title" : "Men`s 6-inch Boots",
+        "image" : "https://atlas-content-cdn.pixelsquid.com/assets_v2/253/2532817380002764105/previews/G03-200x200.jpg",
+        "category":"men's clothing",
+        "description" : "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "rating":"3.9"
+    },
+    {
+        "id" : "2",
+        "title" : "backpack",
+        "image" : "https://www.pixelsquid.com/png/men-s-backpack-2790955535577388252",
+        "category":"men's clothing",
+        "description" : "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "rating":"5"
+    },
+    {
+        "id" : "2",
+        "title" : "Mens Jean Pullover",
+        "image" : "https://atlas-content-cdn.pixelsquid.com/assets_v2/241/2412001799318804143/previews/G03-200x200.jpg",
+        "category":"women's clothing",
+        "description" : "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "rating":"4.9"
+    }
+]
